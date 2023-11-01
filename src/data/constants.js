@@ -10,7 +10,7 @@ export const Bio = {
     "As a dynamic and creative individual, I thrive on embracing fresh design challenges. Fueled by a fervent appetite for learning, I'm committed to crafting visually stunning outcomes. With an optimistic outlook and an unwavering belief in growth, I'm poised to create impactful visual experiences and achieve extraordinary design feats.",
   // github: "https://github.com/rishavchanda",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1gG-QixVLf0rMlWKipiGr0zO5O6j2uZjj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prasad-shalini/",
   insta: "https://www.instagram.com/illustrative_graphic_designer/",
   dribbble:"https://dribbble.com/shaliniprasad/about",
