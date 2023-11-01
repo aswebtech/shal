@@ -203,7 +203,7 @@ export const projects = [
     description:
       "🛒 Introducing Fyndora Grocery App 📱 - Your one-stop solution for hassle-free grocery shopping! We're excited to showcase our latest UI and design for the Fyndora app. Our team has worked tirelessly to make your grocery shopping experience easier and more enjoyable. Explore our clean and user-friendly interface, seamless navigation, and vibrant visual elements. Fyndora is about to revolutionize the way you shop for groceries! 🛍️ #FyndoraApp #GroceryShopping #UI #Design #UserExperience",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://mir-s3-cdn-cf.behance.net/project_modules/fs/e8cf63183552629.6541ef4c5138d.jpg",
     tags: [
       "Adobe Photoshop",
       "Adobe Illustrator",
@@ -213,7 +213,7 @@ export const projects = [
     ],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    webapp: "https://www.behance.net/gallery/183552629/LAYOUT-OF-FYNDORA-APP",
   },
   {
     id: 0,
