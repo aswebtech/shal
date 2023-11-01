@@ -22,21 +22,21 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'graphics' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>Graphics</ToggleButton>
+            <ToggleButton active value="web app" onClick={() => setToggle('graphics')}>Graphics</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>Graphics</ToggleButton>
+            <ToggleButton value="graphics" onClick={() => setToggle('graphics')}>Graphics</ToggleButton>
           }
           <Divider />
           {toggle === 'video' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>Video Animation</ToggleButton>
+            <ToggleButton active value="android app" onClick={() => setToggle('video')}>Video Animation</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>Video Animation</ToggleButton>
+            <ToggleButton value="android app" onClick={() => setToggle('video')}>Video Animation</ToggleButton>
           }
           <Divider />
           {toggle === 'uiux' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>UI / UX</ToggleButton>
+            <ToggleButton active value="machine learning" onClick={() => setToggle('uiux')}>UI / UX</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>UI / UX</ToggleButton>
+            <ToggleButton value="machine learning" onClick={() => setToggle('uiux')}>UI / UX</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
