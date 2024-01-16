@@ -129,7 +129,7 @@ const ProjectCards = ({project,setOpenModal}) => {
                 project.category === 'video' ? <>
                 <h4>Meeee</h4>    
                 <video id="VisaChipCardVideo" width="320" controls>
-                  <source src={project.image} type="video/mp4">
+                  <source src={project.image} type="video/mp4"/>
                 </video>
                 </>: <Image src={project.image}/>
             }
