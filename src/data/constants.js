@@ -179,6 +179,15 @@ export const projects = [
     category: "graphics",
     webapp: "https://www.instagram.com/illustrative_graphic_designer/",
   },
+  {
+    id: 12,
+    title: "Animate Shattered Earth",
+    date: "Jan 2024",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earth.mp4",
+    tags: ["Adobe After Effect"],
+    category: "videos",
+  },
 ];
 export const Bio = {
   name: "Shalini Prasad",
