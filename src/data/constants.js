@@ -186,7 +186,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earth.mp4",
     tags: ["Adobe After Effect"],
-    category: "videos",
+    category: "video",
   },
 ];
 export const Bio = {
