@@ -69,6 +69,21 @@ export const projects = [
     category: "graphics",
     webapp: "https://www.behance.net/gallery/183550285/MUSIC",
   },
+  {
+    id: 5,
+    title: "Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+     
+    image:
+      "https://mir-s3-cdn-cf.behance.net/project_modules/1400/f0bb89183550285.6541e4734de04.png",
+    tags: ["Adobe Photoshop",
+      "Adobe Illustrator",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
  
 ];
 export const Bio = {
