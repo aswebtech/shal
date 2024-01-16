@@ -184,7 +184,7 @@ export const projects = [
     title: "Animate Shattered Earth",
     date: "Jan 2024",
     image:
-      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earth.mp4",
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earthavi.avi",
     tags: ["Adobe After Effect"],
     category: "video",
   },
