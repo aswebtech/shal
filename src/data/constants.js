@@ -71,15 +71,96 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Graphics",
+    title: "Delicious Chicken Graphics",
     date: "Jan 2024",
     description:
     "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
-     
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/chicken.png",
-    tags: ["Adobe Photoshop",
+    tags: [
       "Adobe Illustrator",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 6,
+    title: "Black Current Ice Cream",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/black.jpg",
+    tags: [
+      "Adobe Illustrator",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 7,
+    title: "Dentist Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/dentist.jpg",
+    tags: [
+      "Adobe Photoshop",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 8,
+    title: "Smart Watch Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/watch.jpg",
+    tags: [
+      "Adobe Illustrator",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 9,
+    title: "Super Delicious Pizza Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/pizza.jpg",
+    tags: ["Adobe Illustrator",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 10,
+    title: "Magnum Ice Cream Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/nuts.jpg",
+    tags: ["Adobe Photoshop",
+      "Typography",],
+    category: "graphics",
+    webapp: "https://www.instagram.com/illustrative_graphic_designer/",
+  },
+  {
+    id: 11,
+    title: "Lays Chips Wrapper Graphics",
+    date: "Jan 2024",
+    description:
+    "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/lays.png",
+    tags: [
+      "Adobe Photoshop",
       "Typography",],
     category: "graphics",
     webapp: "https://www.instagram.com/illustrative_graphic_designer/",
