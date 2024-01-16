@@ -197,7 +197,13 @@ const index = ({ openModal, setOpenModal }) => {
                         }}
                         onClick={() => setOpenModal({ state: false, project: null })}
                     />
-                    <Image src={project?.image} />
+                  {
+                        project?.category === 'video' ? <>
+                        <video  width="220" controls>
+                          <source src={project?.image} type="video/mp4"/>
+                        </video>
+                        </>: <Image src={project?.image}/>
+                    }
                     <Title>{project?.title}</Title>
                     <Date>{project.date}</Date>
                     <Tags>
