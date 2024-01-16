@@ -172,7 +172,7 @@ export const projects = [
     description:
     "This project allowed me to showcase my expertise in graphic design while pushing creative boundaries. I am proud of the outcome and the impact it has made.",
     image:
-      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/wood.jpg",
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/wood.png",
     tags: [
       "Adobe Photoshop",
       "Typography",],
