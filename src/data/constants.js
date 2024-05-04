@@ -224,6 +224,15 @@ export const projects = [
     tags: ["Adobe Illustrator"],
     category: "graphics",
   },
+   {
+    id: 16,
+    title: "Cheesy Burger Poster",
+    date: "Feb 2024",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/cheesy burger.png",
+    tags: ["Adobe Illustrator"],
+    category: "graphics",
+  },
 ];
 export const Bio = {
   name: "Shalini Prasad",
