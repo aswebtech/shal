@@ -188,6 +188,15 @@ export const projects = [
     tags: ["Adobe After Effect"],
     category: "video",
   },
+  {
+    id: 13,
+    title: "Banner for Triphackers",
+    date: "Feb 2024",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earth.mp4",
+    tags: ["Adobe Photoshop"],
+    category: "graphics",
+  },
 ];
 export const Bio = {
   name: "Shalini Prasad",
