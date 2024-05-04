@@ -176,7 +176,7 @@ export const projects = [
     tags: [
       "Adobe Photoshop",
       "Typography",],
-    category: "graphics",
+    category: "poster",
     webapp: "https://www.instagram.com/illustrative_graphic_designer/",
   },
   {
@@ -195,7 +195,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/Trip Hackers.jpg",
     tags: ["Adobe Photoshop"],
-    category: "graphics",
+    category: "poster",
   },
   {
     id: 14,
@@ -213,7 +213,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/Artboard 567890fds-.png",
     tags: ["Adobe Illustrator"],
-    category: "graphics",
+    category: "poster",
   },
    {
     id: 16,
@@ -222,7 +222,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/Fashion Week.png",
     tags: ["Adobe Illustrator"],
-    category: "graphics",
+    category: "poster",
   },
    {
     id: 16,
@@ -231,7 +231,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/cheesy burger.png",
     tags: ["Adobe Illustrator"],
-    category: "graphics",
+    category: "poster",
   },
 ];
 export const Bio = {
