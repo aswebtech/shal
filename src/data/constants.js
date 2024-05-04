@@ -193,7 +193,7 @@ export const projects = [
     title: "Banner for Triphackers",
     date: "Feb 2024",
     image:
-      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/earth.mp4",
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/Trip Hackers.jpg",
     tags: ["Adobe Photoshop"],
     category: "graphics",
   },
