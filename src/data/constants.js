@@ -202,7 +202,7 @@ export const projects = [
     title: "Social Media Post",
     date: "Feb 2024",
     image:
-      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/Trip Hackers.jpg",
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/REGISTER Now.jpg",
     tags: ["Adobe Illustrator"],
     category: "graphics",
   },
