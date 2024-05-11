@@ -233,6 +233,15 @@ export const projects = [
     tags: ["Adobe Illustrator"],
     category: "poster",
   },
+   {
+    id:  17,
+    title: "Social media Post",
+    date: "Feb 2024",
+    image:
+      "https://raw.githubusercontent.com/shaliniprasad33/shal/main/src/images/cheesy burger.png",
+    tags: ["Adobe Illustrator,Adobe Photoshop"],
+    category: "poster",
+  },
 ];
 export const Bio = {
   name: "Shalini Prasad",
